@@ -6,3 +6,9 @@ List of sites for IT Architecture and Design
 * [IT Architect Series](http://itaseries.com/account-have-one/)
 * [John A. Zachman](https://www.zachman.com/resources/ea-articles-reference/327-the-framework-for-enterprise-architecture-background-description-and-utility-by-john-a-zachman)
 * [Enterprise Architecture Framework](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+
+## Cloud Architecture
+
+| Cloud | Function |
+| ----- | -------- |
+| GCP   | [RAMP](https://cloud.google.com/blog/products/cloud-migration/google-cloud-ramp-program-simplifies-cloud-migration)     |
